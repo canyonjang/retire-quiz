@@ -1,0 +1,13 @@
+# 비밀 키 — 절대 깃허브에 올리지 마세요
+.streamlit/secrets.toml
+*.env
+
+# 파이썬
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 운영체제
+.DS_Store
+Thumbs.db
